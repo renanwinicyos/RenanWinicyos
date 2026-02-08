@@ -47,17 +47,17 @@ Se você tem uma ideia, **vamos juntos estruturar, desenvolver e colocar no ar**
 
 ### 💻 Linguagens & Tecnologias
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,react,nextjs,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,nodejs,react,nextjs,html,css,tailwind" />
 </p>
 
 ### 🗄️ Bancos de Dados & Infraestrutura
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,mysql,redis,docker" />
 </p>
 
 ### ⚙️ Ferramentas & Boas Práticas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
 ---
