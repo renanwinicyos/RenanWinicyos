@@ -1,14 +1,14 @@
-<p align="center">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=RenanWinicyos&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h1 align="center">👋 Olá, eu sou Renan Winicyos</h1>
+<h1 align="left">👋 Olá, eu sou Renan Winicyos</h1>
 
-<p align="center">
+<p align="left">
   Desenvolvedor Full Stack | Arquitetura Moderna | APIs, Bots e Sistemas Escaláveis
 </p>
 
-<p align="center">
+<p align="left">
   <strong>Vamos juntos tirar seu projeto do papel e transformá-lo em uma solução real, escalável e profissional.</strong>
 </p>
 
@@ -85,6 +85,25 @@ Se você:
 <strong>Vamos juntos tirar seu projeto do papel e levar para produção.</strong>
 
 📬 Fique à vontade para entrar em contato, trocar ideias ou colaborar em projetos.
+
+---
+
+## 📬 Entre em contato
+
+Se você quer tirar uma ideia do papel, evoluir um projeto ou iniciar uma parceria, estou à disposição.  
+<strong>Vamos conversar e construir algo sólido juntos.</strong>
+
+<p align="left">
+  <a href="https://discord.gg/winicyos.sb" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+  </a>
+  <a href="https://www.linkedin.com/in/renan-winicyos-053952326" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:contatowinicyosdev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+  </a>
+</p>
 
 ---
 
