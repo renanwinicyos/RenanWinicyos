@@ -57,7 +57,7 @@ Se você tem uma ideia, **vamos juntos estruturar, desenvolver e colocar no ar**
 
 ### ⚙️ Ferramentas & Boas Práticas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://skillicons.dev/icons?i=git" />
 </p>
 
 ---
