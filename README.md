@@ -94,7 +94,7 @@ Se você quer tirar uma ideia do papel, evoluir um projeto ou iniciar uma parcer
 <strong>Vamos conversar e construir algo sólido juntos.</strong>
 
 <p align="left">
-  <a href="https://discord.gg/winicyos.sb" target="_blank">
+  <a href="https://discord.com/users/928245802214752256" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
   </a>
   <a href="https://www.linkedin.com/in/renan-winicyos-053952326" target="_blank">
